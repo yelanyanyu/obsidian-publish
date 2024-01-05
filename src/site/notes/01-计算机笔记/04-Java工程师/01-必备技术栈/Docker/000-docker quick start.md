@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/01/04-java/01/docker/000-docker-quick-start/","tags":["blog","#docker","gardenEntry"]}
 ---
 
-test
 # Docker install
 ## Uninstall old versions
 ```bash
@@ -98,3 +97,4 @@ sudo docker [restart|stop|start] mysql
 ```
 
 # 常用问题汇总
+## 01
