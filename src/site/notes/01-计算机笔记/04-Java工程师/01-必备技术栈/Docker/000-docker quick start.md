@@ -45,7 +45,7 @@ sudo systemctl enable docker
 sudo mkdir -p /etc/docker 
 sudo tee /etc/docker/daemon.json <<-'EOF' 
 { 
-	"registry-mirrors": ["https://w646lopu.mirror.aliyuncs.com"] 
+	"registry-mirrors": ["https://xxx.mirror.aliyuncs.com"] 
 } 
 EOF 
 sudo systemctl daemon-reload 
