@@ -33,6 +33,7 @@ sudo docker run hello-world
 ```
 ```ad-note
 title:Optional
+title:Optional
 如果程序出现如下的结果就代表安装成功：
 ![](https://yelanyanyu-img-bed.oss-cn-hangzhou.aliyuncs.com/img/blog/2023/12/20231226224010.png)
 ```
@@ -97,4 +98,6 @@ sudo docker [restart|stop|start] mysql
 ```
 
 # 常用问题汇总
+## 01
+
 ## 01
