@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/99-bugs/tomcat10-x-jsp-jstl-el/","tags":["blog","bug"]}
+{"dg-publish":true,"permalink":"/01/04-java/99-bugs/tomcat10-x-jsp-jstl-el/","tags":["blog","bug","jsp","tomcat"]}
 ---
 
 # 问题描述
