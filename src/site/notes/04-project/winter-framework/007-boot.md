@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-project/winter-framework/007-boot/","tags":["blog"]}
+{"dg-publish":true,"permalink":"/04-project/winter-framework/007-boot/","tags":["personal/blog"]}
 ---
 
 
