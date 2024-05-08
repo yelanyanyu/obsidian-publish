@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/06-jeesite/jeesite/","tags":["blog","jeesite"]}
+{"dg-publish":true,"permalink":"/01/04-java/06-jeesite/jeesite/","tags":["personal/blog","program/backend/framework/jeesite"]}
 ---
 
 # 超级管理员增加权限
