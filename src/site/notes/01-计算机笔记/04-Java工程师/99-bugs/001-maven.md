@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/99-bugs/001-maven/","tags":["blog","bug"]}
+{"dg-publish":true,"permalink":"/01/04-java/99-bugs/001-maven/","tags":["personal/blog","program/bug"]}
 ---
 
 
