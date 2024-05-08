@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/02-labs/00/000-vscode-c-c/","tags":["blog"]}
+{"dg-publish":true,"permalink":"/01/02-labs/00/000-vscode-c-c/","tags":["personal/blog"]}
 ---
 
 # 引言
