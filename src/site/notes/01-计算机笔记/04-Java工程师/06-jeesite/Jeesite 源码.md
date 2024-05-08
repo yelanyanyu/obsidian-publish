@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/06-jeesite/jeesite/","tags":["blog"]}
+{"dg-publish":true,"permalink":"/01/04-java/06-jeesite/jeesite/","tags":["personal/blog"]}
 ---
 
 这个部分涵盖了两个部分，一部分是源码以及项目的解析，一部分是如果根据这些解析修改源码，从而实现客制化。
