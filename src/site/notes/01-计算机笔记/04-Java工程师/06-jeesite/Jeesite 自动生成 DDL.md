@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/06-jeesite/jeesite-ddl/","tags":["blog","jeesite"]}
+{"dg-publish":true,"permalink":"/01/04-java/06-jeesite/jeesite-ddl/","tags":["personal/blog","program/backend/framework/jeesite"]}
 ---
 
 这里仅介绍如何使用 eclipse 的插件来生成表，table。
