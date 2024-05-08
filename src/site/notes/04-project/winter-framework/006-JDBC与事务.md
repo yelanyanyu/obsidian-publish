@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-project/winter-framework/006-jdbc/","tags":["blog"]}
+{"dg-publish":true,"permalink":"/04-project/winter-framework/006-jdbc/","tags":["personal/blog"]}
 ---
 
 
