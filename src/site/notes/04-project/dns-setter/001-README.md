@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-project/dns-setter/001-readme/","tags":["blog","project"]}
+{"dg-publish":true,"permalink":"/04-project/dns-setter/001-readme/","tags":["personal/blog","project"]}
 ---
 
 # 基本介绍
