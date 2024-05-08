@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/99-bugs/springboot/","tags":["blog","bug"]}
+{"dg-publish":true,"permalink":"/01/04-java/99-bugs/springboot/","tags":["personal/blog","program/bug"]}
 ---
 
 # 问题描述
