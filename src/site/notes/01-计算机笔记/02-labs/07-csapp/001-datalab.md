@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/02-labs/07-csapp/001-datalab/","tags":["blog","csapp"]}
+{"dg-publish":true,"permalink":"/01/02-labs/07-csapp/001-datalab/","tags":["personal/blog","csapp"]}
 ---
 
 # 总述
