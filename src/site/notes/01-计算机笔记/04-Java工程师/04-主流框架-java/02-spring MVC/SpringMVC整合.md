@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/04-java/02-spring-mvc/spring-mvc/","tags":["blog","spring","springmvc","mybatis","IDEA"]}
+{"dg-publish":true,"permalink":"/01/04-java/04-java/02-spring-mvc/spring-mvc/","tags":["personal/blog","program/backend/framework/spring","program/backend/framework/springmvc","program/backend/framework/mybatis","program/tech/IDEA"]}
 ---
 
 # 基础环境搭建
