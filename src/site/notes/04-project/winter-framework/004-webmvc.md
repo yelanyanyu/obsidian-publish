@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-project/winter-framework/004-webmvc/","tags":["blog"]}
+{"dg-publish":true,"permalink":"/04-project/winter-framework/004-webmvc/","tags":["personal/blog"]}
 ---
 
 
