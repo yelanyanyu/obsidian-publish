@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/06-jeesite/jeesite/","tags":["blog","java","vue","springboot"]}
+{"dg-publish":true,"permalink":"/01/04-java/06-jeesite/jeesite/","tags":["personal/blog","java","program/frontend/vue","program/backend/framework/springboot"]}
 ---
 
 # 步骤概述
