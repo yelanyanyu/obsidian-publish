@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/02-java-web/017-ajax/","tags":["blog","ajax","front-end"]}
+{"dg-publish":true,"permalink":"/01/04-java/02-java-web/017-ajax/","tags":["personal/blog","program/frontend/ajax","program/frontend"]}
 ---
 
 
