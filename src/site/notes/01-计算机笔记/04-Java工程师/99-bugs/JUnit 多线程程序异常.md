@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/99-bugs/j-unit/","tags":["blog","bug","多线程","java"]}
+{"dg-publish":true,"permalink":"/01/04-java/99-bugs/j-unit/","tags":["personal/blog","program/bug","algorithm/多线程","java"]}
 ---
 
 
