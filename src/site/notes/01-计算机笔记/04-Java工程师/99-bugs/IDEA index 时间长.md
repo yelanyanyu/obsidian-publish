@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/99-bugs/idea-index/","tags":["blog","bug","IDEA"]}
+{"dg-publish":true,"permalink":"/01/04-java/99-bugs/idea-index/","tags":["personal/blog","program/bug","program/tech/IDEA"]}
 ---
 
 
