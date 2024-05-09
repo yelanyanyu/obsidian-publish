@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/01/01/acwing/07/007-849-dijkstra-i/","tags":["personal/blog","algorithm/图论/单源最短路","algorithm/Dijkstra","algorithm/模板题"]}
+{"dg-publish":true,"permalink":"/01/01/01/acwing/07/007-849-dijkstra-i/","tags":["personal/blog","algorithm/图论/单源最短路","algorithm/图论/Dijkstra","algorithm/模板题"]}
 ---
 
 
