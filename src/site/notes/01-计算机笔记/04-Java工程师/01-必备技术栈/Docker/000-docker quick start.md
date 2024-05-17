@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/01/docker/000-docker-quick-start/","tags":["personal/blog","#program/tech/docker"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/04-Java工程师/01-必备技术栈/Docker/000-docker quick start/","tags":["personal/blog","#program/tech/docker"]}
 ---
 
 # Docker install
