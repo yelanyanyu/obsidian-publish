@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/03-408/01/05-01-zuo//01/01-java/","tags":["personal/blog","algorithm/bineary-search"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/03-408/01-数据结构/05-01-数据结构与算法-zuo/算法/01-查找算法/01-二分查找法-java/","tags":["personal/blog","algorithm/bineary-search"]}
 ---
 
 
