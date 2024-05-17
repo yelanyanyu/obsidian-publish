@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/02-labs/00/000-vscode-c-c/","tags":["personal/blog"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/02-labs/00-环境配置/000-vscode-c(c++)环境配置/","tags":["personal/blog"]}
 ---
 
 # 引言
