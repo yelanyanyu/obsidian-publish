@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/02-java-web/017-ajax/","tags":["personal/blog","program/frontend/ajax","program/frontend"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/04-Java工程师/02-JavaWeb/017 ajax 异步请求/","tags":["personal/blog","program/frontend/ajax","program/frontend"]}
 ---
 
 
