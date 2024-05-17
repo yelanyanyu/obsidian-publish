@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/01/01/leet-code/0096-unique-binary-search-trees/","tags":["personal/blog","algorithm/数据结构/有序表","algorithm/math/Catalan-number"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/01-竞赛/01-刷题/LeetCode/0096-unique-binary-search-trees/","tags":["personal/blog","algorithm/数据结构/有序表","algorithm/math/Catalan-number"]}
 ---
 
 
