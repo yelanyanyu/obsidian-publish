@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-project/winter-framework/001-readme/","tags":["personal/blog"]}
+{"dg-publish":true,"permalink":"/04-project/winter-framework/001-Readme/","tags":["personal/blog"]}
 ---
 
 
