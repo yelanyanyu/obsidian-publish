@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/06-jeesite/jeesite/","tags":["personal/blog","program/backend/framework/jeesite"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/04-Java工程师/06-jeesite/Jeesite 设置管理员权限/","tags":["personal/blog","program/backend/framework/jeesite"]}
 ---
 
 # 超级管理员增加权限
