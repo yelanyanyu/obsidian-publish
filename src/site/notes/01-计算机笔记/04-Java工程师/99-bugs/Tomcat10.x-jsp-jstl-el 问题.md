@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/99-bugs/tomcat10-x-jsp-jstl-el/","tags":["personal/blog","program/bug","program/backend/framework/jsp","program/backend/framework/tomcat"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/04-Java工程师/99-bugs/Tomcat10.x-jsp-jstl-el 问题/","tags":["personal/blog","program/bug","program/backend/framework/jsp","program/backend/framework/tomcat"]}
 ---
 
 # 问题描述
