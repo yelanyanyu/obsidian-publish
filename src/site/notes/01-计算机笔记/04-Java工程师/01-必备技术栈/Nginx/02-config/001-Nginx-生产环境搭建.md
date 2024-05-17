@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/01/nginx/02-config/001-nginx/","tags":["personal/blog","program/tech/nginx"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/04-Java工程师/01-必备技术栈/Nginx/02-config/001-Nginx-生产环境搭建/","tags":["personal/blog","program/tech/nginx"]}
 ---
 
 # Centos 7.6-Vmware测试环境
