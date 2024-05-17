@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/06-jeesite/jeesite/","tags":["personal/blog","java","program/backend/framework/springboot","program/frontend/vue","program/backend/framework/jeesite"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/04-Java工程师/06-jeesite/Jeesite 前后端分离综述/","tags":["personal/blog","java","program/backend/framework/springboot","program/frontend/vue","program/backend/framework/jeesite"]}
 ---
 
 # Jessite
