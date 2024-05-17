@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/99-bugs/springboot/","tags":["personal/blog","program/bug"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/04-Java工程师/99-bugs/Springboot程序端口占用/","tags":["personal/blog","program/bug"]}
 ---
 
 # 问题描述
