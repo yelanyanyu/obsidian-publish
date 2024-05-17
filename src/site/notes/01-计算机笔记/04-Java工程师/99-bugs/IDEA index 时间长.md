@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/04-java/99-bugs/idea-index/","tags":["personal/blog","program/bug","program/tech/IDEA"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/04-Java工程师/99-bugs/IDEA index 时间长/","tags":["personal/blog","program/bug","program/tech/IDEA"]}
 ---
 
 
