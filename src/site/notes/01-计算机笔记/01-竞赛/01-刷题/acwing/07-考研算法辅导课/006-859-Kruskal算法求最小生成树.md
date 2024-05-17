@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/01/01/acwing/07/006-859-kruskal/","tags":["personal/blog","algorithm/模板题","algorithm/sorting","algorithm/数据结构/树","algorithm/图论/生成树"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/01-竞赛/01-刷题/acwing/07-考研算法辅导课/006-859-Kruskal算法求最小生成树/","tags":["personal/blog","algorithm/模板题","algorithm/sorting","algorithm/数据结构/树","algorithm/图论/生成树"]}
 ---
 
 [859. Kruskal算法求最小生成树 - AcWing题库](https://www.acwing.com/problem/content/description/861/)
