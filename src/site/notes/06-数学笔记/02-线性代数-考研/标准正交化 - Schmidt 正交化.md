@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06/02/schmidt/","tags":["personal/blog","线性代数/向量"]}
+{"dg-publish":true,"permalink":"/06-数学笔记/02-线性代数-考研/标准正交化 - Schmidt 正交化/","tags":["personal/blog","线性代数/向量"]}
 ---
 
 # 定义
