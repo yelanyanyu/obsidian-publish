@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/03-408/01/b/","tags":["personal/blog","algorithm/数据结构/B树"]}
+{"dg-publish":true,"permalink":"/01/03-408/01/b/","tags":["personal/blog","algorithm/数据结构/有序表/平衡树/B树","algorithm/数据结构/有序表/平衡树"]}
 ---
 
 B 树的扩充过程与寻常的平衡二叉树不同。其他二叉树的扩充是从根节点出发，逐渐往下扩充。而 B 树则是从下往上进行扩充。
