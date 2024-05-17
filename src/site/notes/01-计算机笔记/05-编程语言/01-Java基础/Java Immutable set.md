@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/05/01-java/java-immutable-set/","tags":["personal/blog","java/collection","java/jdk9"]}
+{"dg-publish":true,"permalink":"/01-计算机笔记/05-编程语言/01-Java基础/Java Immutable set/","tags":["personal/blog","java/collection","java/jdk9"]}
 ---
 
 # What is immutable set
