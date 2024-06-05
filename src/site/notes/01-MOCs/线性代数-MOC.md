@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-MOCs/线性代数-MOC/","tags":["personal/blog","MOC"]}
+{"dg-publish":true,"permalink":"/01-MOCs/线性代数-MOC/","tags":["personal/blog","MOC","线性代数"]}
 ---
 
 
