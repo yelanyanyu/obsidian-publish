@@ -3,71 +3,16 @@
 ---
 
 # Docker install
-## Uninstall old versions
-```bash
-sudo yum remove docker \
-                  docker-client \
-                  docker-client-latest \
-                  docker-common \
-                  docker-latest \
-                  docker-latest-logrotate \
-                  docker-logrotate \
-                  docker-engine
-```
-## Set up the repository
-```bash
-sudo yum install -y yum-utils
-sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
-```
-## Install Docker Engine
-```bash
-sudo yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-```
-## Start Docker
-```bash
-sudo systemctl start docker
-```
-## Run test program
-```bash
-sudo docker run hello-world
-```
-```ad-note
-title:Optional
-title:Optional
-如果程序出现如下的结果就代表安装成功：
-![](https://yelanyanyu-img-bed.oss-cn-hangzhou.aliyuncs.com/img/blog/2023/12/20231226224010.png)
-```
-## 设置自启动
-```bash
-sudo systemctl enable docker
-```
-## Install Aliyun mirror
-```bash
-sudo mkdir -p /etc/docker 
-sudo tee /etc/docker/daemon.json <<-'EOF' 
-{ 
-	"registry-mirrors": ["https://xxx.mirror.aliyuncs.com"] 
-} 
-EOF 
-sudo systemctl daemon-reload 
-sudo systemctl restart docker
-```
-
+[[02-pages/centos7 安装docker\|centos7 安装docker]]
 # Docker 常用操作
-## 安装远程镜像
-```bash
-sudo docker pull [mysql:5.7]
-```
-
-## 查看已安装镜像
-```bash
-sudo docker images
-```
-
+[[02-pages/docker 安装远程镜像\|docker 安装远程镜像]]
+[[02-pages/docker 查看已安装镜像\|docker 查看已安装镜像]]
 ## 启动镜像
 我们以 mysql 为例，假如我们是刚刚配置 mysql。那么，在第一次启动的时候，需要进行配置：
 ```bash
-sudo docker run -p 3306:3306 --name mysql \
+sudo docker run \
+-p 3306:3306 \
+--name mysql \
 -v /mydata/mysql/log:/var/log/mysql \
 -v /mydata/mysql/data:/var/lib/mysql \
 -v /mydata/mysql/conf:/etc/mysql \
@@ -96,8 +41,3 @@ sudo docker exec -it mysql /bin/bash
 ```bash
 sudo docker [restart|stop|start] mysql
 ```
-
-# 常用问题汇总
-## 01
-
-## 01
