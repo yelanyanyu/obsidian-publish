@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Welcome/","tags":["personal/blog","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Welcome/","tags":["personal/blog","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # Welcome to yelanyanyu's blog
