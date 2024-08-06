@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/DMA 控制器/","tags":["personal/blog","计算机组成原理","概念"]}
+{"dg-publish":true,"permalink":"/02-pages/DMA 控制器/","tags":["personal/blog","计算机组成原理","概念","os"]}
 ---
 
 - 内部构造：
