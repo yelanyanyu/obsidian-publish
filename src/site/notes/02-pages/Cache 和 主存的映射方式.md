@@ -15,7 +15,11 @@ title: 解读
 有三种常用的映射方式：
  - [[02-pages/全相联映射\|全相联映射]]；
  - [[02-pages/直接映射\|直接映射]]；
- - [[02-pages/组相联映射\|组相联映射]]；
+ - [[02-pages/n路-组相联映射\|n路-组相联映射]]；
 
 
 ![image.png](https://yelanyanyu-img-bed.oss-cn-hangzhou.aliyuncs.com/img/blog/2024/09/20240904212346.png)
+
+
+其他概念：
+ - [[02-pages/Cache 冲突\|Cache 冲突]]；

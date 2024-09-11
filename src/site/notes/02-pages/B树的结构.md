@@ -19,4 +19,4 @@ title: Def
 一颗合法的 B 树可以是（这里省略的指针域）：
 ![image.png](https://yelanyanyu-img-bed.oss-cn-hangzhou.aliyuncs.com/img/blog/2024/05/20240510220043.png)
 
-
+可以注意到，由于非根非叶节点至少有 $\displaystyle \left\lfloor  \frac{m}{2}  \right\rfloor-1$ 个关键字，所以至少有 2 个子树。
