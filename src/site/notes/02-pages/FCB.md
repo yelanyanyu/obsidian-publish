@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/02-pages/FCB/","tags":["personal/blog","os/file"]}
 ---
 
+一个 FCB 就是一个文件目录项。
+
 文件控制块的结构取决于我们要对目录进行哪些操作：
 ![image.png](https://yelanyanyu-img-bed.oss-cn-hangzhou.aliyuncs.com/img/blog/2024/10/20241018210933.png)
 
