@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-pages/Cache 高速缓存/","tags":["personal/blog","计算机组成原理"]}
 ---
 
-由[[02-pages/存储器的层次结构\|存储器的层次结构]]可知，Cache 是一种仅次于 CPU 的高速存储器，主要由 [[02-pages/SRAM-静态RAM\|SRAM-静态RAM]] 组成。
+由[[02-pages/存储器的层次结构\|存储器的层次结构]]可知，Cache 是一种仅次于 CPU 的高速存储器，主要由 [[02-pages/SRAM-静态RAM\|SRAM-静态RAM]] 组成，是一种[[02-pages/相联存储器\|相联存储器]]。
 
 Cache 的构想来自于[[02-pages/局部性原理\|局部性原理]]。把 CPU 目前访问的地址周围的部分数据放入到 Cache 中。这样就缓和了 CPU 的速度和主存速度不匹配的问题，提高了 [[02-pages/Cache 性能\|Cache 性能]]。也就是说 Cache 是**主存的一小部分副本**。
 
