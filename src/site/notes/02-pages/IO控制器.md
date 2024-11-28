@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/IO控制器/","tags":["personal/blog","计算机组成原理","os"]}
+{"dg-publish":true,"permalink":"/02-pages/IO控制器/","tags":["personal/blog","计算机组成原理/IO","os/IO"]}
 ---
 
 CPU 无法直接控制 IO 设备的机械部件，所以需要一个中介，这个中介就是 IO 控制器（设备控制器）。CPU 控制 IO 控制器，然后 IO 控制器控制设备的机械部件。
@@ -7,7 +7,7 @@ CPU 无法直接控制 IO 设备的机械部件，所以需要一个中介，这
 - IO 控制器的功能：
 	![image.png](https://yelanyanyu-img-bed.oss-cn-hangzhou.aliyuncs.com/img/blog/2024/08/20240805215641.png)
 - [[02-pages/IO控制器组成\|IO控制器组成]]；
-- 两种寄存器编址方式：
+- CPU 如何访问 IO 控制器中的寄存器（IO 端口）？需要给IO 控制器中的寄存器编制。两种寄存器编址方式：
 	- [[02-pages/内存映射 IO\|内存映射 IO]]；
 	- [[02-pages/寄存器独立编址\|寄存器独立编址]]；
 - 常见 IO 控制器：

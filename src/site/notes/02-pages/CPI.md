@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/CPI/","tags":["personal/blog","计算机组成原理/概述"]}
+{"dg-publish":true,"permalink":"/02-pages/CPI/","tags":["personal/blog","计算机组成原理/概述","计算机组成原理/CPU"]}
 ---
 
 ```ad-info
