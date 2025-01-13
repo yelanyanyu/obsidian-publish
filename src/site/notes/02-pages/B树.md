@@ -10,7 +10,7 @@
 [[02-pages/B树的操作\|B树的操作]]
 
 # B 树的瓶颈
-[[02-pages/B+树\|B+树]]
+[[B+树\|B+树]]
 
 # 参考资料
 [B树和B+树的插入、删除图文详解 - nullzx - 博客园 (cnblogs.com)](https://www.cnblogs.com/nullzx/p/8729425.html)
